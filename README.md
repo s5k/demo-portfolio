@@ -26,4 +26,5 @@ After done all steps above, you can go to the browser (i.e: localhost) to check 
 ```sh
 Nails Salon:
 Leonie Theme: http://localhost/leonie
+Luxana Theme: http://localhost/luxana
 ```
