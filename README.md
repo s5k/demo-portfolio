@@ -17,6 +17,9 @@ docker run --rm \
 
 Run docker containers:
 ./vendor/bin/sail up -d
+
+Generate app key:
+./vendor/bin/sail php artisan key:generate
 ```
 
 After done all steps above, you can go to the browser (i.e: localhost) to check is alive.
